@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there and wellcome :wave::grin:
 
-> A full-stack developer from **Santa Catarina, Brazil**.
+I'm a full-stack web developer from **Santa Catarina, Brazil**.
 
 ### 🏗️ Learning：
 
@@ -12,5 +12,5 @@
 
 ### 📫 Contact me:
 
-- **Phone/Whatsapp** : +55 (47) 9 9753-5008
+- **Phone/Whatsapp** : +55 (47) 99753-5008
 - **E-mail** : nonam4@yahoo.com
