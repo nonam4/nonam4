@@ -1,16 +1,31 @@
+<p align="center"><img width="100%" src="./assets/header.png" /></p>
+
 ### Hi there 👋
 
-<!--
-**nonam4/nonam4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A full-stack developer from **Santa Catarina, Brazil**.
 
-Here are some ideas to get you started:
+### 🏗️ Learning：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
+<code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=%FFFFFF"/></code>
+
+### 📫 Reach me:
+
+- **QQ** : 574980606
+- **WeChat** : 19941208872
+- **Phone** : 19941208872
+- **E-mail** : 574980606@qq.com
+
+### 🏠 Blog：
+
+- **[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/782508010775198/posts)**
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=li-jia-nan&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+### 📈 Activity Graph：
+
+![](https://activity-graph.herokuapp.com/graph?username=li-jia-nan&theme=react-dark)
