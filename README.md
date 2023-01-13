@@ -1,5 +1,3 @@
-<p align="center"><img width="100%" src="./assets/header.png" /></p>
-
 ### Hi there 👋
 
 > A full-stack developer from **Santa Catarina, Brazil**.
@@ -14,18 +12,5 @@
 
 ### 📫 Reach me:
 
-- **QQ** : 574980606
-- **WeChat** : 19941208872
-- **Phone** : 19941208872
-- **E-mail** : 574980606@qq.com
-
-### 🏠 Blog：
-
-- **[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/782508010775198/posts)**
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=li-jia-nan&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" /> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-### 📈 Activity Graph：
-
-![](https://activity-graph.herokuapp.com/graph?username=li-jia-nan&theme=react-dark)
+- **Phone/Whatsapp** : +55 (47) 9 9753-5008
+- **E-mail** : nonam4@yahoo.com
