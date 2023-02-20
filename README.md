@@ -1,6 +1,6 @@
 ### Hi there and wellcome :wave::grin:
 
-I'm a full-stack web developer from **Santa Catarina, Brazil**.
+I'm a full-stack web/mobile developer from **Santa Catarina, Brazil**.
 
 ### 🏗️ WIP：
 
